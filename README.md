@@ -1,5 +1,7 @@
+<img src="https://i.imgur.com/zDqZ1zF.png" alt="Ryuu Banner" style="width:100%; border-radius: 10px;" />
+
 <h1 align="center">Hi there 👋, I'm <span style="color:#7f5af0">RyuuMachida</span></h1>
-<h3 align="center">💻 Student & Self-Taught Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">💻 Student | Self-Taught Developer | Night Owl Coder 🦉</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RyuuMachida&label=Profile%20views&color=7f5af0&style=flat" alt="RyuuMachida" />
@@ -7,11 +9,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 Who Am I?
 
-- 🌱 Currently learning: **Full Stack Development & Software Engineering**
-- 🛠️ Favorite tools: `VS Code`, `GitHub`, `Git`, `ACode`, `Vercel`, `Railway`
-- ⚡ Fun fact: _I love anime, coding at night, and making **brutal GUI** in Roblox 😈_
+- 🎓 I’m currently diving deep into **Full Stack Web Dev** & **Software Engineering**
+- 💼 Tools I enjoy using:
+  `VS Code`, `GitHub`, `Vercel`, `ACode`, `Railway`
+- 😈 Fun fact: I build **chaotic GUI** in Roblox for fun, code at 3AM, and live on caffeine
+- 🌌 Dreaming of building apps that make impact (or just look cool af)
 
 ---
 
@@ -52,4 +56,4 @@
 
 ---
 
-> _“Keep coding, keep dreaming. The night is dark, but your screen is brighter.”_ ✨
+> _"Code like a rebel, learn like a sage. The night is long, but passion burns longer."_ ⚔️
