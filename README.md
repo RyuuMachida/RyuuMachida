@@ -32,5 +32,5 @@
 
 ### 🔗 Let’s Connect!
 [![Instagram](https://img.shields.io/badge/-@ryuumachida-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rilss_ear1)
-[![Instagram](https://img.shields.io/badge/-@ryuumachida-purple?style=flat&logo=tiktok&logoColor=purple)](https://tiktok.com/rilss_ear1)
+[![Instagram](https://img.shields.io/badge/-@ryuumachida-purple?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/rilss_ear1)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arielenvan@gmail.com)
