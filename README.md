@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/zDqZ1zF.png" alt="Ryuu Banner" style="width:100%; border-radius: 10px;" />
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#7f5af0">RyuuMachida</span></h1>
 <h3 align="center">💻 Student | Self-Taught Developer | Night Owl Coder 🦉</h3>
 
