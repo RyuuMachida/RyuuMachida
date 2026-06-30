@@ -1,13 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#7f5af0">RyuuMachida</span></h1>
-<p align="center">💻 Student | Self-Taught Developer | Night Owl Coder</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RyuuMachida&label=Profile%20views&color=7f5af0&style=flat" alt="RyuuMachida" />
 </p>
 
 ---
-
-### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyuuMachida&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
@@ -19,8 +14,6 @@
 </p>
 
 ---
-
-### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -37,8 +30,6 @@
 </p>
 
 ---
-
-### 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:arielenvan@gmail.com">
