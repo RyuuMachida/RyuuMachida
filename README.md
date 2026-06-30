@@ -10,8 +10,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyuuMachida&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuMachida&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RyuuMachida&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuMachida&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 <p align="center">
