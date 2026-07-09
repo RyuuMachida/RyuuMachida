@@ -12,9 +12,6 @@
 <a href="mailto:arielenvan@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@rilss_ear1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" height="45"/>
-</a>
 </p>
 
 </div>
