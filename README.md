@@ -21,31 +21,6 @@
 
 <br><br>
 
----
-
-<br>
-
-<div align="center">
-
-## GitHub Analytics
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyuuMachida&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuMachida&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyuuMachida&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
-
-</div>
-
-<br><br>
-
----
-
 <br>
 
 ## About Me
